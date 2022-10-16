@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ivanko",
+      "email": "ivan@ukr.net"
+    },
+    {
+      "id": 2,
+      "name": "Olena",
+      "email": "ivan@ukr.net"
+    },
+    {
+      "id": 3,
+      "name": "Stepan",
+      "email": "ivan@ukr.net"
+    },
+    {
+      "id": 4,
+      "name": "Olena",
+      "email": "olena@ukr.net"
+    }
+  ]
+}
